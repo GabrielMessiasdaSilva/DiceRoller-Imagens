@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ResultText" type="id" />
+    <item name="Sorte" type="id" />
+    <item name="edtnumberText" type="id" />
+</resources>
